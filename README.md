@@ -62,7 +62,7 @@ UI/UX هما اللي بيصمّموا الشكل والتجربة، والفر�
 - الشكل العام
 
 ### 📚 تتعلمه منين؟
-- [CSS Crash Course - Traversy Media (إنجليزي)](https://www.youtube.com/watch?v=OXGznpKZ_sA)
+- [CSS Tutorial – Full Course for Beginners (إنجليزي)](https://www.youtube.com/watch?v=OXGznpKZ_sA)
 
 ---
 
@@ -73,7 +73,7 @@ UI/UX هما اللي بيصمّموا الشكل والتجربة، والفر�
 
 ### 📚 تتعلمه منين؟
 - [JavaScript بالعربي - Elzero](https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv)
-- [JavaScript Crash Course (مُوصى به)](https://www.youtube.com/watch?v=EerdGm-ehJQ)
+- [JavaScript Tutorial Full Course - Beginner to Pro (مُوصى به)](https://www.youtube.com/watch?v=EerdGm-ehJQ)
 - [FreeCodeCamp JS Course (إنجليزي)](https://www.youtube.com/watch?v=PkZNo7MFNFg)
 
 ---
@@ -118,8 +118,8 @@ UI/UX هما اللي بيصمّموا الشكل والتجربة، والفر�
 ### 📚 تتعلمهم منين؟
 
 #### Angular:
-- [كورس Angular بالعربي – The Clean Code](https://www.youtube.com/playlist?list=PL1ano0qwNuBwA90YwA-5d8g2wbOYHkl5h)
-- [Angular Crash Course – Traversy Media](https://www.youtube.com/watch?v=3qBXWUpoPHo)
+- [كورس Angular بالعربي – Angular Army](https://www.youtube.com/playlist?list=PL1ano0qwNuBwA90YwA-5d8g2wbOYHkl5h)
+- [Angular Crash Course – freeCodeCamp](https://www.youtube.com/watch?v=3qBXWUpoPHo)
 
 #### React:
 - [React Crash Course (إنجليزي)](https://www.youtube.com/watch?v=CgkZ7MvWUAA)
