@@ -138,6 +138,6 @@ UI/UX هما اللي بيصمّموا الشكل والتجربة، والفر�
 لو عايز أي مساعدة أو محتاج توجيه أكتر، تقدر تتواصل معانا على لينكدإن 👇
 
 📬 [Adel Saudi on LinkedIn](https://www.linkedin.com/in/adel-saudi/)
-📬 [Abdelwahab Mohamed on LinkedIn]([https://www.linkedin.com/in/adel-saudi/](https://www.linkedin.com/in/abdelwahabeladawy-mohamed-953904269/))
+📬 [Abdelwahab Mohamed on LinkedIn]([https://www.linkedin.com/in/adel-saudi/](https://www.linkedin.com/in/abdelwahabeladawy-mohamed-953904269/)
 
 
