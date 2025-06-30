@@ -126,7 +126,7 @@ UI/UX هما اللي بيصمّموا الشكل والتجربة، والفر�
 - [React Course Playlist (عربي)](https://www.youtube.com/playlist?list=PLYyqC4bNbCIdSZ-JayMLl4WO2Cr995vyS)
 
 #### Vue:
-- [Vue 3 Crash Course – Traversy Media](https://www.youtube.com/watch?v=FXpIoQ_rT_c)
+- [Vue 3 Crash Course ](https://www.youtube.com/watch?v=FXpIoQ_rT_c)
 
 ---
 
